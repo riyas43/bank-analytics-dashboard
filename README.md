@@ -61,7 +61,7 @@ Contact
 For queries or collaboration opportunities:
 Email: riyas996599@gmail.com
 LinkedIn: [Riyas](https://www.linkedin.com/in/riyas-m17)
-Portfolio: https://arafat3-portfolio.netlify.app/
+
 
 
 
