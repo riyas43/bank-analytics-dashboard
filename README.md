@@ -7,7 +7,9 @@ This project presents an interactive Bank Loan Analytics Dashboard developed usi
 Objective
 
 •	Analyse loan performance over time.
+
 •	Identify risk factors such as charged-off loans.
+
 •	Understand customer behaviour and segmentation.
 •	Evaluate repayment trends and profitability.
 •	Provide actionable insights for business decisions.
