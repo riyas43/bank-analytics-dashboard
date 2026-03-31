@@ -4,11 +4,11 @@
 This project presents an interactive Bank Loan Analytics Dashboard developed using Power BI. The dashboard provides insights into loan distribution, repayment behaviour, customer segmentation, and risk analysis to support data-driven decision-making in financial institutions.
 
 ## Objective
-•	Analyse loan performance over time.
-•	Identify risk factors such as charged-off loans.
-•	Understand customer behaviour and segmentation.
-•	Evaluate repayment trends and profitability.
-•	Provide actionable insights for business decisions.
+1. Analyse loan performance over time.
+2. Identify risk factors such as charged-off loans.
+3. Understand customer behaviour and segmentation.
+4. Evaluate repayment trends and profitability.
+5. Provide actionable insights for business decisions.
 
 ## Key Performance Indicators (KPIs)
 •	Total Loan Amount: 134M 💰
