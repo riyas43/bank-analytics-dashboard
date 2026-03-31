@@ -11,42 +11,42 @@ This project presents an interactive Bank Loan Analytics Dashboard developed usi
 5. Provide actionable insights for business decisions.
 
 ## Key Performance Indicators (KPIs)
-•	Total Loan Amount: 134M 💰
-•	Total Payment: 143.77M 💵
-•	Loan Growth Trend: 2007–2011 (Increasing trend) 📈
+1. Total Loan Amount: 134M 💰
+2. Total Payment: 143.77M 💵
+3. Loan Growth Trend: 2007–2011 (Increasing trend) 📈
 
 ## Key Insights
-•	Loan disbursement increased significantly from 1M (2007) to 74M (2011).
-•	Total payment exceeds total loan amount, indicating profitability through interest income.
-•	A considerable portion of loans are not verified, increasing potential risk.
-•	Charged-off loans show a gradual increase, highlighting default risk trends.
-•	Majority of borrowers fall under RENT and MORTGAGE categories.
-•	Loan distribution is concentrated in specific states, indicating regional opportunities.
+1. Loan disbursement increased significantly from 1M (2007) to 74M (2011).
+2. Total payment exceeds total loan amount, indicating profitability through interest income.
+3. A considerable portion of loans are not verified, increasing potential risk.
+4. Charged-off loans show a gradual increase, highlighting default risk trends.
+5. Majority of borrowers fall under RENT and MORTGAGE categories.
+6. Loan distribution is concentrated in specific states, indicating regional opportunities.
 
 ## Dashboard Features
-•	Year-wise loan amount analysis.
-•	Grade and sub-grade level analysis.
-•	Verification status breakdown.
-•	Loan status tracking (Charged Off, Current, Fully Paid).
-•	Customer segmentation (Home Ownership).
-•	State-wise loan performance.
-•	Monthly loan trends.
+1. Year-wise loan amount analysis.
+2. Grade and sub-grade level analysis.
+3. Verification status breakdown.
+4. Loan status tracking (Charged Off, Current, Fully Paid).
+5. Customer segmentation (Home Ownership).
+6. State-wise loan performance.
+7. Monthly loan trends.
 
 ## Tools & Technologies Used
-•	Power BI (To Build the Dashboard)
-•	SQL (Data Cleaning & Transformation)
-•	Excel (Data Preparation)
-•	Data Modeling (Star Schema)
-•	DAX (Measures & Calculations)
+1. Power BI (To Build the Dashboard)
+2. SQL (Data Cleaning & Transformation)
+3. Excel (Data Preparation)
+4. Data Modeling (Star Schema)
+5. DAX (Measures & Calculations)
 
 ## Dashboard Preview
 "Dashboard" (dashboard.png)
 
 ## Business Recommendations
-•	Improve customer verification to reduce risk.
-•	Focus on high-performing regions for expansion.
-•	Monitor charged-off loans to control defaults.
-•	Target mid-grade customers with optimized strategies.
+1. Improve customer verification to reduce risk.
+2. Focus on high-performing regions for expansion.
+3. Monitor charged-off loans to control defaults.
+4. Target mid-grade customers with optimized strategies.
 
 ## Contributions and Feedback:
 Contributions are welcome! Feel free to fork this repository and submit pull requests. For feedback or feature requests, please open an issue or connect with me on LinkedIn.
@@ -57,9 +57,6 @@ For queries or collaboration opportunities:
 
 Email: riyas996599@gmail.com
 
-LinkedIn: [Riyas](https://www.linkedin.com/in/riyas-m17)
-
-
-
+LinkedIn: <a href=https://www.linkedin.com/in/riyas-m17>Riyas M<a/>
 
 
