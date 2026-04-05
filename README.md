@@ -40,7 +40,7 @@ This project presents an interactive Bank Loan Analytics Dashboard developed usi
 5. DAX (Measures & Calculations)
 
 ## Dashboard Preview
-- <a href="https://github.com/riyas43/bank-analytics-dashboard/blob/main/bank_analytics_dashboard.png.png">Dashboard<a/>
+- <a href="https://github.com/riyas43/bank-analytics-dashboard/blob/main/Bank_loan_analytics_page-0001.jpg">Dashboard<a/>
 
 ## Business Recommendations
 1. Improve customer verification to reduce risk.
